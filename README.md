@@ -1,5 +1,5 @@
 ## Hi, I'm Leo-Xee 🙋🏻‍♂️
-- I'm studing to be FrontEnd Developer. 🌱
+- I'm studying to be FrontEnd Developer. 🌱
 
 
 ## 🚀  Tech Stack  🚀
