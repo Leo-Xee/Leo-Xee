@@ -7,7 +7,7 @@
 - 아침을 운동으로 시작하는 것을 좋아하고 커피와 차를 즐깁니다.
 
 
-## Experience
+## Tech Experience
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-fcc419?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
