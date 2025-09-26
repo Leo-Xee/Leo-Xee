@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi!,%20I'm%20Leo&textBg=false&fontAlign=50&animation=fadeIn&fontAlignY=41&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi!,%20I'm%20Leo&textBg=false&fontAlign=50&animation=fadeIn&fontAlignY=36&fontSize=50)
 
 ## About Me
 - 안녕하세요. 3년차 프론트엔드 개발자 이장민입니다. 🌿
