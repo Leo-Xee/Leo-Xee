@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi!,%20I'm%20Leo&textBg=false&fontAlign=50&animation=fadeIn&fontAlignY=36&fontSize=50)
-
 ## About Me
 - 안녕하세요. 3년차 프론트엔드 개발자 이장민입니다. 🌿
 - **사용자 경험에 대한 고민**이 쌓여야 아름다운 제품이 만들어진다고 생각하고 **그 깊이를 탐구**합니다.
